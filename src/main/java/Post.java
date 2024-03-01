@@ -11,7 +11,6 @@ public class Post {
     public int year;
 
 
-
     public static class FormDate {
         public int day;
     }
